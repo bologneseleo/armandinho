@@ -1,0 +1,46 @@
+
+.main-bg {
+  background-color: rgb(11, 11, 11);
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.texto-esquerda {
+  text-align: center;
+  font-weight: bold;
+}
+
+.video{
+margin-left: 200px;
+width: 500px;
+height: 500px;
+}
+
+.logoarmandin{
+width: 300px;
+margin-top: 15px;
+}
+.white-bg {
+  background: var(--white-color);
+  color: var(--primary-color);
+}
+
+.main-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+
+.menu-spacing {
+  height: 65px;
+}
+
+body .full-width {
+  width: 100%;
+  flex: 1 1 100%;
+}
